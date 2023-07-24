@@ -1,0 +1,46 @@
+- year: 2022
+  publications:
+    - title: "How to Give Imperfect Automated Guidance to Learners: A Case-Study in Workplace Learning"
+      authors: "Whitehill, J., and Erfanian, A."
+      conference: "Artificial Intelligence in Education"
+      link: "PDF"
+
+    - title: "Can the Mathematical Correctness of Object Configurations Affect the Accuracy of Their Perception?"
+      authors: "Jiang, H., Li, Z., and Whitehill, J."
+      conference: "1st CVPR Workshop on Vision Datasets Understanding"
+      link: "PDF"
+
+    - title: "Hold that pose: capturing cervical dystonia's head deviation severity from video"
+      authors: "Zhang, Z., Cisneros, E., Lee, H., Vu, J., Chen Q., Benadof, C., Whitehill, J., Rouzbehani, R., Sy, D., Huang, J., Sejnowski, T., Jankovic, J., Factor, S., Goetz, C., Barbano, R., Perlmutter, J., Jinnah, H., Berman, B., Richardson, S., Stebbins, G., Comella, C., and Peterson, D."
+      journal: "Annals of Clinical and Translational Neurology"
+      link: "PDF"
+
+- year: 2021
+  publications:
+    - title: "Leveraging Affect Transfer Learning for Behavior Prediction in an Intelligent Tutoring System"
+      authors: "Ruiz, N., Yu, H., Allessio, D., Jalal, M., Joshi, A., Murray, T., Magee, J., Whitehill, J., Ablavsky, V., Arroyo, I., Woolf, B., Sclaroff, S., and Betke, M."
+      conference: "IEEE Automatic Face & Gesture Recognition"
+
+    - title: "Measuring the Effect of ITS Feedback Messages on Students' Emotions"
+      authors: "Jiang, H., Serpell, Z., and Whitehill, J."
+      conference: "AIED Workshop on Multimodal Artificial Intelligence in Education"
+      link: "PDF"
+
+    # Add more publications for the year 2021
+
+- year: 2020
+  publications:
+    - title: "How Does Label Noise Affect the Quality of Speaker Embeddings?"
+      authors: "Pham, M., Li, Z., and Whitehill, J."
+      conference: "InterSpeech"
+      link: "PDF"
+
+    - title: "Noise-Robust Key-Phrase Detectors for Automated Classroom Feedback"
+      authors: "Zylich, B., and Whitehill, J."
+      conference: "IEEE International Conference on Speech and Signal Processing (ICASSP)"
+      link: "PDF"
+
+    # Add more publications for the year 2020
+
+# Add more entries for other years (e.g., 2019, 2018, 2017, etc.)
+
