@@ -1,0 +1,10 @@
+---
+layout: publications
+---
+
+<h1>Publications</h1>
+<ul>
+  {% for publication in site.data.publications %}
+    <li>{{ publication.title }} - {{ publication.authors }} - {{ publication.journal }}</li>
+  {% endfor %}
+</ul>

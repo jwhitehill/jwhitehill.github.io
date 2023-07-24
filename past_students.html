@@ -1,0 +1,10 @@
+---
+layout: students
+---
+
+<h1>Past Students</h1>
+<ul>
+  {% for student in site.data.past_students %}
+    <li>{{ student.name }} - {{ student.program }}</li>
+  {% endfor %}
+</ul>
