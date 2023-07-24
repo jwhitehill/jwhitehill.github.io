@@ -5,7 +5,7 @@ layout: publications
 <h1>Publications</h1>
 <ul>
   {% for year in site.data.year %}
-    {% for publication in year.publication %}
+    {% for publication in year.publications %}
       <li>{{ publication.title }} - {{ publication.authors }} - {{ publication.venue }}</li>
     {% endfor %}
   {% endfor %}
