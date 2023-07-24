@@ -4,7 +4,9 @@ layout: publications
 
 <h1>Publications</h1>
 <ul>
-  {% for publication in site.data.publications %}
-    <li>{{ publication.title }} - {{ publication.authors }} - {{ publication.journal }}</li>
+  {% for year in site.data.year %}
+    {% for publication in site.data.year %}
+      <li>{{ publication.title }} - {{ publication.authors }} - {{ publication.venue }}</li>
+    {% endfor %}
   {% endfor %}
 </ul>
