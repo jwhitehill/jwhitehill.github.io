@@ -1,3 +1,12 @@
+- year: 2023
+  publications:
+    - title: "In Search of Negative Moments: Multi-Modal Analysis of Teacher Negativity in Classroom Observation Videos."
+      authors: "Dai, Z., McReynolds, A., & Whitehill, J."
+      venue: "Educational Data Mining"
+    - title: "Compositional clustering: Applications to multi-label object recognition and speaker identification"
+      authors: "Li, Z., He, X., and Whitehill, J."
+      venue: Pattern Recognition
+    
 - year: 2022
   publications:
     - title: "How to Give Imperfect Automated Guidance to Learners: A Case-Study in Workplace Learning"
