@@ -7,7 +7,7 @@ layout: publications
   {% for year in site.data.publications %}
     <h2>{{ year.year }}</h2>
     {% for publication in year.publications %}
-      <li>{{ publication.title }} - {{ publication.authors }} - {{ publication.venue }}</li>
+      <li>{{ publication.authors }}. "{{ publication.title }}". <em>{{ publication.venue }}</em>.</li>
     {% endfor %}
   {% endfor %}
 </ul>
