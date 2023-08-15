@@ -26,7 +26,25 @@
       venue: "AIED Workshop on Multimodal Artificial Intelligence in Education"
       link: "PDF"
 
-    # Add more publications for the year 2021
+    - title: "Affective Teacher Tools: an Affective Class Report Card and an Affective Dashboard"
+      authors: "Gupta, A., Menon, N., Lee, W., Rebelsky, W., Allesio, D., Murray, T., Woolf, B., Whitehill, J., and Arroyo, I."
+      venue: "Artificial Intelligence in Education"
+
+    - title: "Text Representations of Math Tutorial Videos for Clustering, Retrieval, and Learning Gain Prediction"
+      authors: "Liamthong, P, and Whitehill, J."
+      venue: "Educational Data Mining"
+
+    - title: "Compositional embedding models for speaker identification and diarization with simultaneous speech from 2+ speakers"
+      authors: "Li, Z., and Whitehill, J."
+      venue: "IEEE International Conference on Speech and Signal Processing (ICASSP)"
+
+    - title: "Learning to Work in a Materials Recovery Facility: Can Humans and Machines Learn from Each Other?"
+      authors: "Kyriacou, H., Ramakrishnan, A., and Whitehill, J."
+      venue: "Learning Analytics and Knowledge (LAK)"
+
+    - title: "Compositional Embeddings for Multi-Label One-Shot Learning"
+      authors: "Li, Z., Mozer, M., and Whitehill, J."
+      venue: "Winter Conference on Applications of Computer Vision (WACV)"
 
 - year: 2020
   publications:
@@ -40,7 +58,13 @@
       venue: "IEEE International Conference on Speech and Signal Processing (ICASSP)"
       link: "PDF"
 
-    # Add more publications for the year 2020
+    - title: "How Teachers Affect Students' Online Participation in EFL Courses in Uruguay"
+      authors: "Aguerrebere, C., Bulger, M., Cobo, C., Garcia, S., Kaplan, G., and Whitehill, J."
+      venue: "Computer-Based Learning in Context"
+
+    - title: "Toward Better Speaker Embeddings: Automated Collection of Speech Samples from Unknown Distinct Speakers"
+      authors: "Pham, M., Li, Zeqian, and Whitehill, J."
+      venue: "IEEE International Conference on Speech and Signal Processing (ICASSP)"
 
 # Add more entries for other years (e.g., 2019, 2018, 2017, etc.)
 
