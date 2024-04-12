@@ -1,0 +1,20 @@
+- name: "Jacob Whitehill"
+  email: "jrwhitehill@wpi.edu"
+  role: "PI and Associate Professor, Department of Computer Science, and Learning Science & Technologies (LST)"
+  photo: "jake.jpg"
+
+- name: "Viet Anh Trinh"
+  email: "vtrinh@wpi.edu"
+  role: "Post-doctoral Researcher"
+
+- name: "Xinlu He"
+  email: "xhe4@wpi.edu"
+  role: "PhD student (Data Science)"
+
+- name: "Jiani Wang"
+  email: "jwang21@wpi.edu"
+  role: "PhD student (Computer Science)"
+
+- name: "Yiwen Guan"
+  email: "yguan2@wpi.edu"
+  role: "PhD student (Computer Science)"
