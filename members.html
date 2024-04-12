@@ -5,6 +5,6 @@ layout: members
 <h1>Current Lab Members</h1>
 <ul>
   {% for member in site.data.members %}
-    <li>{{ member.name }} - {{ member.program }}</li>
+    <li>{{ member.name }} - {{ member.role }} - {{ member.email }}</li>
   {% endfor %}
 </ul>
