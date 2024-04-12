@@ -3,77 +3,87 @@
     - title: "In Search of Negative Moments: Multi-Modal Analysis of Teacher Negativity in Classroom Observation Videos."
       authors: "Dai, Z., McReynolds, A., & Whitehill, J."
       venue: "Educational Data Mining"
+      link: "https://files.eric.ed.gov/fulltext/ED630855.pdf"
     - title: "Compositional clustering: Applications to multi-label object recognition and speaker identification"
       authors: "Li, Z., He, X., and Whitehill, J."
       venue: Pattern Recognition
+      link: "https://www.sciencedirect.com/science/article/abs/pii/S0031320323005277"
     
 - year: 2022
   publications:
     - title: "How to Give Imperfect Automated Guidance to Learners: A Case-Study in Workplace Learning"
       authors: "Whitehill, J., and Erfanian, A."
       venue: "Artificial Intelligence in Education"
-      link: "PDF"
+      link: "https://par.nsf.gov/servlets/purl/10353532"
 
     - title: "Can the Mathematical Correctness of Object Configurations Affect the Accuracy of Their Perception?"
       authors: "Jiang, H., Li, Z., and Whitehill, J."
       venue: "1st CVPR Workshop on Vision Datasets Understanding"
-      link: "PDF"
+      link: "https://openaccess.thecvf.com/content/CVPR2022W/VDU/papers/Jiang_Can_the_Mathematical_Correctness_of_Object_Configurations_Affect_the_Accuracy_CVPRW_2022_paper.pdf"
 
     - title: "Hold that pose: capturing cervical dystonia's head deviation severity from video"
       authors: "Zhang, Z., Cisneros, E., Lee, H., Vu, J., Chen Q., Benadof, C., Whitehill, J., Rouzbehani, R., Sy, D., Huang, J., Sejnowski, T., Jankovic, J., Factor, S., Goetz, C., Barbano, R., Perlmutter, J., Jinnah, H., Berman, B., Richardson, S., Stebbins, G., Comella, C., and Peterson, D."
       venue: "Annals of Clinical and Translational Neurology"
-      link: "PDF"
+      link: "https://onlinelibrary.wiley.com/doi/pdf/10.1002/acn3.51549"
 
 - year: 2021
   publications:
     - title: "Leveraging Affect Transfer Learning for Behavior Prediction in an Intelligent Tutoring System"
       authors: "Ruiz, N., Yu, H., Allessio, D., Jalal, M., Joshi, A., Murray, T., Magee, J., Whitehill, J., Ablavsky, V., Arroyo, I., Woolf, B., Sclaroff, S., and Betke, M."
       venue: "IEEE Automatic Face & Gesture Recognition"
+      link: "https://ieeexplore.ieee.org/iel7/9666787/9666788/09667001.pdf"
 
     - title: "Measuring the Effect of ITS Feedback Messages on Students' Emotions"
       authors: "Jiang, H., Serpell, Z., and Whitehill, J."
       venue: "AIED Workshop on Multimodal Artificial Intelligence in Education"
-      link: "PDF"
+      link: "https://par.nsf.gov/servlets/purl/10277387"
 
     - title: "Affective Teacher Tools: an Affective Class Report Card and an Affective Dashboard"
       authors: "Gupta, A., Menon, N., Lee, W., Rebelsky, W., Allesio, D., Murray, T., Woolf, B., Whitehill, J., and Arroyo, I."
       venue: "Artificial Intelligence in Education"
+      link: "https://link.springer.com/chapter/10.1007/978-3-030-78292-4_15"
 
     - title: "Text Representations of Math Tutorial Videos for Clustering, Retrieval, and Learning Gain Prediction"
       authors: "Liamthong, P, and Whitehill, J."
       venue: "Educational Data Mining"
+      link: "https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_19.pdf"
 
     - title: "Compositional embedding models for speaker identification and diarization with simultaneous speech from 2+ speakers"
       authors: "Li, Z., and Whitehill, J."
       venue: "IEEE International Conference on Speech and Signal Processing (ICASSP)"
+      link: "https://ieeexplore.ieee.org/iel7/9413349/9413350/09413752.pdf"
 
     - title: "Learning to Work in a Materials Recovery Facility: Can Humans and Machines Learn from Each Other?"
       authors: "Kyriacou, H., Ramakrishnan, A., and Whitehill, J."
       venue: "Learning Analytics and Knowledge (LAK)"
+      link: "https://dl.acm.org/doi/pdf/10.1145/3448139.3448183"
 
     - title: "Compositional Embeddings for Multi-Label One-Shot Learning"
       authors: "Li, Z., Mozer, M., and Whitehill, J."
       venue: "Winter Conference on Applications of Computer Vision (WACV)"
+      link: "https://openaccess.thecvf.com/content/WACV2021/papers/Li_Compositional_Embeddings_for_Multi-Label_One-Shot_Learning_WACV_2021_paper.pdf"
 
 - year: 2020
   publications:
     - title: "How Does Label Noise Affect the Quality of Speaker Embeddings?"
       authors: "Pham, M., Li, Z., and Whitehill, J."
       venue: "InterSpeech"
-      link: "PDF"
+      link: "https://www.isca-archive.org/interspeech_2020/pham20b_interspeech.pdf"
 
     - title: "Noise-Robust Key-Phrase Detectors for Automated Classroom Feedback"
       authors: "Zylich, B., and Whitehill, J."
       venue: "IEEE International Conference on Speech and Signal Processing (ICASSP)"
-      link: "PDF"
+      link: "https://ieeexplore.ieee.org/iel7/9040208/9052899/09053173.pdf"
 
     - title: "How Teachers Affect Students' Online Participation in EFL Courses in Uruguay"
       authors: "Aguerrebere, C., Bulger, M., Cobo, C., Garcia, S., Kaplan, G., and Whitehill, J."
       venue: "Computer-Based Learning in Context"
+      link: "https://osf.io/preprints/edarxiv/t82xa/download"
 
     - title: "Toward Better Speaker Embeddings: Automated Collection of Speech Samples from Unknown Distinct Speakers"
       authors: "Pham, M., Li, Zeqian, and Whitehill, J."
       venue: "IEEE International Conference on Speech and Signal Processing (ICASSP)"
+      link: "https://ieeexplore.ieee.org/iel7/9040208/9052899/09053258.pdf"
 
 # Add more entries for other years (e.g., 2019, 2018, 2017, etc.)
 
