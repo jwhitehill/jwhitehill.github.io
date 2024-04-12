@@ -1,3 +1,10 @@
+- year: 2024
+  publications:
+    - title: "Automatic Speech Recognition Tuned for Child Speech in the Classroom"
+      authors: "Southwell, R. Ward, W., Trinh, V.A., Clevenger, C., Clevenger, C., Watts, E., Reitman, J., D'Mello, S., and Whitehill, J."
+      venue: "International Conference on Sound, Speech, and Signal Processing (ICASSP)"
+      link: "https://ieeexplore.ieee.org/abstract/document/10447428"
+    
 - year: 2023
   publications:
     - title: "In Search of Negative Moments: Multi-Modal Analysis of Teacher Negativity in Classroom Observation Videos."
