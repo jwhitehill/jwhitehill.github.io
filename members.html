@@ -1,10 +1,10 @@
 ---
-layout: students
+layout: members
 ---
 
-<h1>Current Students</h1>
+<h1>Current Lab Members</h1>
 <ul>
-  {% for student in site.data.students %}
-    <li>{{ student.name }} - {{ student.program }}</li>
+  {% for student in site.data.members %}
+    <li>{{ member.name }} - {{ member.program }}</li>
   {% endfor %}
 </ul>
