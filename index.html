@@ -7,12 +7,13 @@ layout: default
 
 <h1>Areas</h1>
 Applied machine learning, speech and speaker recognition, educational data mining, AI for education, few-shot learning, emotion recognition
+<br/>
 
 <h1>Group Members</h1>
 <ul>
   {% for member in site.data.members %}
-    <li><img src="{{ member.photo }}" width=200/><br/>
-        <a href="{{ member.link }}">{{ member.name }}</a> - {{ member.role }} - {{ member.email }}</li>
+    <li><a href="{{ member.link }}">{{ member.name }}</a> - {{ member.role }} - {{ member.email }}</li><br/>
+    <img src="{{ member.photo }}" width=200/>
   {% endfor %}
 </ul>
 
