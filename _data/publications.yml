@@ -1,8 +1,16 @@
 - year: 2024
   publications:
+    - title: "Speaker Diarization in the Classroom: How Much Does Each Student Speak in Group Discussions?"
+      authors: "Wang, J. Dudy, S., He, X., Wang, Z., Southwell, R., and Whitehill, J."
+      venue: "Educational Data Mining"
+
+    - title: "Tracking Classroom Movement Patterns with Person Re-Id"
+      authors: "He, X., Wang, J., Trinh, V.A., McReynolds, A., and Whitehill, J."
+      venue: "Educational Data Mining"
+
     - title: "Automated Evaluation of Classroom Instructional Support with LLMs and BoWs: Connecting Global Predictions to Specific Feedback"
       authors: "Whitehill, J., and LoCasale-Crouch, J."
-      venue: "Journal of Educational Data-Mining"
+      venue: "Journal of Educational Data Mining"
       link: "https://arxiv.org/pdf/2310.01132"
 
     - title: "Automatic Speech Recognition Tuned for Child Speech in the Classroom"
