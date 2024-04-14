@@ -2,5 +2,31 @@
 layout: default
 ---
 
-<h1>Welcome to {{ site.title }}</h1>
-<p>This is a brief overview of the lab.</p>
+<h1>{{ site.title }}</h1>
+<img src="lab.jpg"/>
+
+<h1>Current Lab Members</h1>
+<ul>
+  {% for member in site.data.members %}
+    <li>{{ member.name }} - {{ member.role }} - {{ member.email }}</li>
+  {% endfor %}
+</ul>
+
+<h1>Funded Projects</h1>
+<ul>
+  {% for project in site.data.projects %}
+    <li><a href="{{ project.link }}">{{ project.title }}</a>, funded by {{ project.src }}, headed at {{ project.site }}.</li>
+  {% endfor %}
+</ul>
+
+<h1>Publications</h1>
+<ul>
+  {% for year in site.data.publications %}
+    <h2>{{ year.year }}</h2>
+    {% for publication in year.publications %}
+      <li>{{ publication.authors }}. "{{ publication.title }}". <em>{{ publication.venue }}</em>. <a href="{{ publication.link }}">PDF</a>.</li>
+    {% endfor %}
+  {% endfor %}
+</ul>
+
+See <a href="https://scholar.google.com/citations?user=PGyMqU0AAAAJ&hl=en&oi=ao">Google Scholar</a> for older (&lt;2020) publications.
