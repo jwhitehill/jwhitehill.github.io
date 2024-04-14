@@ -13,7 +13,7 @@
 - year: 2023
   publications:
     - title: "In Search of Negative Moments: Multi-Modal Analysis of Teacher Negativity in Classroom Observation Videos."
-      authors: "Dai, Z., McReynolds, A., & Whitehill, J."
+      authors: "Dai, Z., McReynolds, A., and Whitehill, J."
       venue: "Educational Data Mining"
       link: "https://files.eric.ed.gov/fulltext/ED630855.pdf"
     - title: "Compositional clustering: Applications to multi-label object recognition and speaker identification"
@@ -42,7 +42,7 @@
   publications:
     - title: "Leveraging Affect Transfer Learning for Behavior Prediction in an Intelligent Tutoring System"
       authors: "Ruiz, N., Yu, H., Allessio, D., Jalal, M., Joshi, A., Murray, T., Magee, J., Whitehill, J., Ablavsky, V., Arroyo, I., Woolf, B., Sclaroff, S., and Betke, M."
-      venue: "IEEE Automatic Face & Gesture Recognition"
+      venue: "IEEE Automatic Face and Gesture Recognition"
       link: "https://ieeexplore.ieee.org/iel7/9666787/9666788/09667001.pdf"
 
     - title: "Measuring the Effect of ITS Feedback Messages on Students' Emotions"
