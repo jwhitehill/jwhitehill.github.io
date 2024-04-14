@@ -3,14 +3,14 @@ layout: publications
 ---
 
 <h1>Publications</h1>
-<ul>
-  {% for year in site.data.publications %}
-    <h2>{{ year.year }}</h2>
-    {% for publication in year.publications %}
-      <li>{{ publication.authors }}. "{{ publication.title }}". <em>{{ publication.venue }}</em>. <a href="{{ publication.link }}">PDF</a>.</li>
-    {% endfor %}
+{% for year in site.data.publications %}
+  <h2>{{ year.year }}</h2>
+  <ul>
+  {% for publication in year.publications %}
+    <li>{{ publication.authors }}. "{{ publication.title }}". <em>{{ publication.venue }}</em>. <a href="{{ publication.link }}">PDF</a>.</li>
   {% endfor %}
-</ul>
+  </ul>
+{% endfor %}
 
 <h1>Older Publications (&lt;2020)</h1>
 See my <a href="https://scholar.google.com/citations?user=PGyMqU0AAAAJ&hl=en&oi=ao">Google Scholar</a> page.
