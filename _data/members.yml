@@ -6,10 +6,13 @@
 - name: "Viet Anh Trinh"
   email: "vtrinh@wpi.edu"
   role: "Post-doctoral Researcher"
+  photo: "viet.jpg"
 
 - name: "Xinlu He"
   email: "xhe4@wpi.edu"
   role: "PhD student (Data Science)"
+  photo: "xinlu.png"
+  link: "https://www.wpi.edu/people/doctoral-student/xhe4"
 
 - name: "Jiani Wang"
   email: "jwang21@wpi.edu"
@@ -19,3 +22,5 @@
 - name: "Yiwen Guan"
   email: "yguan2@wpi.edu"
   role: "PhD student (Computer Science)"
+  photo: "yiwen.jpg"
+  link: "https://users.wpi.edu/~yguan2/"
