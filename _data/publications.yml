@@ -1,3 +1,9 @@
+- year: 2025
+    - title: "Optimizing Speaker Diarization for the Classroom: Applications in Timing Student Speech and Distinguishing Teachers from Children"
+      authors: "Wang, J., Dudy, S., He, X., Wang, Z., Southwell, R. and Whitehill, J."
+      venue: "Journal of Educational Data Mining"
+      link: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/841"
+      
 - year: 2024
   publications:
     - title: "Speaker Diarization in the Classroom: How Much Does Each Student Speak in Group Discussions?"
