@@ -1,5 +1,9 @@
 - year: 2025
   publications:
+    - title: "Classroom Observation: Evaluating Instructional Support Automatically in Classroom for Young Children"
+      authors: "Wang, J., Hankout, K., Zhang, Y., LoCasale-Crouch, J., and Whitehill, J."
+      venue: "AAAI iRAISE Workshop"
+      link: "https://openreview.net/pdf?id=haNtTQF5xE"
     - title: "Optimizing Speaker Diarization for the Classroom: Applications in Timing Student Speech and Distinguishing Teachers from Children"
       authors: "Wang, J., Dudy, S., He, X., Wang, Z., Southwell, R. and Whitehill, J."
       venue: "Journal of Educational Data Mining"
