@@ -1,5 +1,8 @@
 - year: 2025
   publications:
+    - title: "Multi-modal Speech Transformer Decoders: When Do Multiple Modalities Improve Accuracy?"
+      authors: "Guan, Y., Trinh, V.A., Voleti, V., and Whitehill, J."
+      venue: "IEEE International Conference on Multimedia & Expo"
     - title: "Classroom Observation: Evaluating Instructional Support Automatically in Classroom for Young Children"
       authors: "Wang, J., Hankout, K., Zhang, Y., LoCasale-Crouch, J., and Whitehill, J."
       venue: "AAAI iRAISE Workshop"
