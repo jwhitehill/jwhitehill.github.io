@@ -1,5 +1,9 @@
 - year: 2025
   publications:
+    - title: "Improving Named Entity Transcription with Contextual LLM-based Revision"
+      authors: "Trinh, V.A., He, X., and Whitehill, J."
+      venue: "In preparation"
+      link: "https://arxiv.org/pdf/2506.10779"
     - title: "Multi-modal Speech Transformer Decoders: When Do Multiple Modalities Improve Accuracy?"
       authors: "Guan, Y., Trinh, V.A., Voleti, V., and Whitehill, J."
       venue: "IEEE International Conference on Multimedia & Expo"
