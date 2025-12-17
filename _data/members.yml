@@ -20,6 +20,10 @@
   photo: "yiwen.jpg"
   link: "https://users.wpi.edu/~yguan2/"
 
+- name: "Rasika Karkare"
+  email: "rskarkare@wpi.edu"
+  role: "Post-doctoral Researcher"
+  
 - name: "Cecilia Tivir"
   email: "ctivir@wpi.edu"
   role: "Visiting Scholar"
