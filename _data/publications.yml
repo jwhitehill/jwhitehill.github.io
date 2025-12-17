@@ -1,5 +1,9 @@
 - year: 2025
   publications:
+    - title: "Survey of end-to-end multi-speaker automatic speech recognition for monaural audio"
+      authors: "He, X., and Whitehill, J."
+      venue: "Elsevier Computer Speech & Language (CSL)"
+      link: "https://www.sciencedirect.com/science/article/pii/S0885230825001500"
     - title: "Improving Named Entity Transcription with Contextual LLM-based Revision"
       authors: "Trinh, V.A., He, X., and Whitehill, J."
       venue: "In preparation"
