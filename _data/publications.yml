@@ -3,10 +3,11 @@
     - title: "MLLM-based Speech Recognition: When and How is Multimodality Beneficial?"
       authors: "Guan, Y., Trinh, VA., Voleti, V., and Whitehill, J."
       venue: "IEEE Transactions on Multimedia"
-      link: https://arxiv.org/abs/2507.19037
+      link: "https://arxiv.org/abs/2507.19037"
     - title: "Improving Speech Recognition of Named Entities in Classroom Speech with LLM Revision and Phonetic-Semantic Context"
       authors: "Trinh, VA., He, X., and Whitehill, J."
       venue: "Educational Data Mining"
+      link: "https://arxiv.org/abs/2506.10779"
 - year: 2025
   publications:
     - title: "Survey of end-to-end multi-speaker automatic speech recognition for monaural audio"
