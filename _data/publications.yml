@@ -1,5 +1,5 @@
 - year: 2026
-publications:
+  publications:
     - title: "MLLM-based Speech Recognition: When and How is Multimodality Beneficial?"
       authors: "Guan, Y., Trinh, VA., Voleti, V., and Whitehill, J."
       venue: "IEEE Transactions on Multimedia"
