@@ -19,13 +19,13 @@
   role: "PhD student (Computer Science)"
   photo: "yiwen.jpg"
   link: "https://users.wpi.edu/~yguan2/"
-
-- name: "Rasika Karkare"
-  email: "rskarkare@wpi.edu"
-  role: "Post-doctoral Researcher"
-  photo: "rasika.jpg"
   
-- name: "Cecilia Tivir"
-  email: "ctivir@wpi.edu"
-  role: "Visiting Scholar"
+- name: "Mac Kongsomjit"
+  email: "pkongsomjit@wpi.edu"
+  role: "Research associate"
   photo: "cecilia.jpg"
+
+- name: "Suryansh Goyal"
+  email: "sgoyal@wpi.edu"
+  role: "Master's student"
+  photo: "suryansh.jpg"
