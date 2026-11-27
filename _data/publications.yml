@@ -18,6 +18,10 @@
       authors: "Smith, E., Whitehill, J. and Ganji, F."
       venue: "Proceedings of the International Conference on Neuromorphic Systems"
       link: "https://dl.acm.org/doi/abs/10.1145/3822454.3822457"
+    - title: "Transformer-Encoder Trees for Efficient Multilingual Machine Translation and Speech Translation"
+      authors: "Guan, Y. and Whitehill, J."
+      venue: "Findings of the EMNLP"
+      link: "https://aclanthology.org/2026.findings-emnlp.434.pdf"
 - year: 2025
   publications:
     - title: "Survey of end-to-end multi-speaker automatic speech recognition for monaural audio"
